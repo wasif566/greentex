@@ -115,7 +115,7 @@ nav{flex:1;display:flex;justify-content:center}
 .footer-brand h3{margin:6px 0 4px 0;font-size:18px;line-height:1.1}
 .footer-brand p{margin:0;color:var(--muted);font-size:14px;max-width:420px;line-height:1.4}
 .social-icons{display:flex;gap:10px;margin-top:12px}
-.social-icons a{width:40px;height:40px;display:inline-flex;align-items:center;justify-content:center;border-radius:10px;background:var(--glass);text-decoration:none;transition:transform .18s,background .18s}
+.social-icons a{width:60px;height:60px;display:inline-flex;align-items:center;justify-content:center;border-radius:10px;background:var(--glass);text-decoration:none;transition:transform .18s,background .18s}
 .social-icons a:hover{transform:translateY(-3px);background:linear-gradient(90deg,var(--accent),var(--accent-2));color:#fff}
 .footer-links h4{margin:0 0 8px 0;font-size:15px}
 .footer-links ul{list-style:none;padding:0;margin:0}
@@ -264,6 +264,7 @@ nav{flex:1;display:flex;justify-content:center}
   color: #ff6b6b;
   border-bottom: 2px solid #ff6b6b;
 }
+
 
 
 
